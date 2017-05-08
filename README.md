@@ -13,4 +13,8 @@ We assume Python 3.6.
     conda create --yes --name np-learn-env --file requirements.txt
     source activate np-learn-env
 
-Now, in the same terminal
+Now, in the same terminal, launch jupyter via
+
+    jupyter notebook
+    
+And then select the `presentation` notebook.
