@@ -2,4 +2,7 @@ jupyter
 numpy
 scipy
 pympler
+sklearn
+matplotlib
+scipy
 
