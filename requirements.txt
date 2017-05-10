@@ -1,4 +1,5 @@
 jupyter
 numpy
 scipy
+pympler
 

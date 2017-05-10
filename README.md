@@ -17,8 +17,9 @@ We assume Python 3.6.
 3. Set up requirements
 
 ```
-conda create --yes --name np-learn-env --file requirements.txt
+conda create --yes --name np-learn-env
 source activate np-learn-env
+pip install --requirement requirements.txt
 ```
 
 Now, in the same terminal, launch jupyter via
