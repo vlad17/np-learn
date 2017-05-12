@@ -10,10 +10,14 @@ Jupyter viewer
 
 ## Enviornment setup
 
-1. Clone this repo, go to its root.
-2. [Install Anaconda](https://www.continuum.io/downloads)
+1. [Install Anaconda](https://www.continuum.io/downloads)1
+2. Clone this repo, go to its root.
+```
+# Go to a directory you like
+git clone https://github.com/vlad17/np-learn.git
+cd np-learn
+```
 3. Set up requirements
-
 ```
 conda create --yes --name np-learn-env
 source activate np-learn-env
