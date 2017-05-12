@@ -4,13 +4,11 @@ Advanced NumPy tips and tricks: a presentation.
 
 We assume Python 3.6.
 
+Jupyter viewer
+
+[<img src="http://nbviewer.jupyter.org/static/img/nav_logo.svg" width="100">](http://nbviewer.jupyter.org/github/vlad17/np-learn/blob/master/presentation.ipynb)
+
 ## Enviornment setup
-
-**Option 1**: Use [binder](http://mybinder.org/).
-
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/vlad17/np-learn)
-
-**Option 2**: run locally.
 
 1. Clone this repo, go to its root.
 2. [Install Anaconda](https://www.continuum.io/downloads)
