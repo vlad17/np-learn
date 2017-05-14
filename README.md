@@ -10,7 +10,7 @@ Jupyter viewer
 
 ## Enviornment setup
 
-1. [Install Anaconda](https://www.continuum.io/downloads)1
+1. [Install Anaconda](https://www.continuum.io/downloads)
 2. Clone this repo, go to its root.
 ```
 # Go to a directory you like
